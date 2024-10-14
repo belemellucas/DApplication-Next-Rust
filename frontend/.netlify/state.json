@@ -1,0 +1,20 @@
+{
+	"siteId": "c0c9491b-908c-4a4f-a12c-8b01720ba87e",
+	"geolocation": {
+		"data": {
+			"city": "Suzano",
+			"country": {
+				"code": "BR",
+				"name": "Brazil"
+			},
+			"subdivision": {
+				"code": "SP",
+				"name": "Sao Paulo"
+			},
+			"timezone": "America/Sao_Paulo",
+			"latitude": -23.6069,
+			"longitude": -46.3056
+		},
+		"timestamp": 1678386246151
+	}
+}
